@@ -1,16 +1,46 @@
 ## Hi there 👋
+# Hi, I'm Tigran! 👋
+**Junior Machine Learning & Data Science Engineer**
 
-<!--
-**tigranbadalyan-ai/tigranbadalyan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building intelligent systems and extracting insights from data. Currently focused on mastering Data Science, Deep Learning and improving my skills in Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects by Categories
+
+### 🤖 Machine Learning
+* **[Predict-the-Introverts-from-the-Extroverts](https://github.com/tigranbadalyan-ai/Predict-the-Introverts-from-the-Extroverts)**
+    *Binary classification using behavioral data. Implemented Logistic Regression, Random Forest, and XGBoost to identify personality traits.*
+* **[HOUSE_PRICE_WORK_ML](https://github.com/tigranbadalyan-ai/HOUSE_PRICE_WORK_ML)**
+    *End-to-end regression project for predicting real estate prices including feature engineering and model evaluation.*
+
+### 🧠 Deep Learning & Computer Vision
+* **[Hand-Finger-Counter-MediaPipe-OpenCV](https://github.com/tigranbadalyan-ai/Hand-Finger-Counter-MediaPipe-OpenCV-)**
+    *Real-time hand tracking and finger counting application using MediaPipe and OpenCV.*
+* **[PyTorch_FashionMNIST_Notebook](https://github.com/tigranbadalyan-ai/PyTorch_FashionMNIST_Notebook)**
+    *Computer Vision model built with PyTorch to classify clothing items, focusing on CNN architecture and training loops.*
+* **[From_Regression_to_Deep_Learning](https://github.com/tigranbadalyan-ai/From_Regression_to_Deep_Learning)**
+    *A comprehensive journey showing the transition from classical statistical models to neural network architectures.*
+  
+### 📊 Data Science & Analysis
+* *Projects coming soon... (Exploratory Data Analysis, SQL, and Statistics)*
+
+### 🐍 Python Development
+* *Projects coming soon... (OOP, Algorithms, and Automation scripts)*
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 📫 How to reach me:
+* **LinkedIn:** [https://www.linkedin.com/in/tigran-badalyan-3162bb341/]
+
+
