@@ -11,7 +11,7 @@ I am passionate about building intelligent systems and extracting insights from 
 ### 🤖 Machine Learning
 * **[Predict-the-Introverts-from-the-Extroverts](https://github.com/tigranbadalyan-ai/Predict-the-Introverts-from-the-Extroverts)**
     *Binary classification using behavioral data. Implemented Logistic Regression, Random Forest, and XGBoost to identify personality traits.*
-* **[HOUSE_PRICE_WORK_ML](https://github.com/tigranbadalyan-ai/HOUSE_PRICE_WORK_ML)**
+* **[House-Price-Prediction](https://github.com/tigranbadalyan-ai/HOUSE_PRICE_WORK_ML)**
     *End-to-end regression project for predicting real estate prices including feature engineering and model evaluation.*
 
 ### 🧠 Deep Learning & Computer Vision
