@@ -22,6 +22,8 @@ I am passionate about building intelligent systems and extracting insights from 
     *A comprehensive journey showing the transition from classical statistical models to neural network architectures.*
   
 ### 📊 Data Science & Analysis
+* **[PostgreSQL-Learning-Path](https://github.com/tigranbadalyan-ai/SQL-Learning-Path-PostgreSQL)** — A structured repository dedicated to mastering SQL, covering everything from basic queries to complex joins and window functions.
+* ⏳ *Upcoming:* End-to-end Data Analysis project using SQL and Tableau/Python.
 * *Projects coming soon... (Exploratory Data Analysis, SQL, and Statistics)*
 
 ### 🐍 Python Development
@@ -36,6 +38,9 @@ I am passionate about building intelligent systems and extracting insights from 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
