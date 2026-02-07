@@ -27,7 +27,9 @@ I am passionate about building intelligent systems and extracting insights from 
 * *Projects coming soon... (Exploratory Data Analysis, SQL, and Statistics)*
 
 ### 🐍 Python Development
-* *Projects coming soon... (OOP, Algorithms, and Automation scripts)*
+* **[Python](https://github.com/tigranbadalyan-ai/Python)** — A dedicated repository for mastering Python core concepts.
+    * ✅ *Features:* Basic syntax, core data structures, and essential library implementations.
+    * ⏳ *Upcoming:* Object-Oriented Programming (OOP), Algorithms, and Automation scripts.
 
 ---
 
