@@ -12,6 +12,8 @@ I am passionate about building intelligent systems and extracting insights from 
     *Binary classification using behavioral data. Implemented Logistic Regression, Random Forest, and XGBoost to identify personality traits.*
 * **[House-Price-Prediction](https://github.com/tigranbadalyan-ai/HOUSE_PRICE_WORK_ML)**
     *End-to-end regression project for predicting real estate prices including feature engineering and model evaluation.*
+* **[ML_basic_algorithms](https://github.com/tigranbadalyan-ai/ML_basic_algorithms)**
+    *A deep-dive into the mathematical "engines" of ML. Rebuilding classical algorithms (Linear Regression, etc.) from scratch using NumPy and Matrix Calculus to ensure theoretical mastery.*
 
 ### 🧠 Deep Learning & Computer Vision
 * **[Hand-Finger-Counter-MediaPipe-OpenCV](https://github.com/tigranbadalyan-ai/Hand-Finger-Counter-MediaPipe-OpenCV-)**
