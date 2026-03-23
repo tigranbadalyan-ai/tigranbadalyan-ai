@@ -1,5 +1,5 @@
 # Hi, I'm Tigran! 👋
-**Junior Machine Learning & Data Science Engineer**
+**Machine Learning & Data Science Engineer**
 
 I am passionate about building intelligent systems and extracting insights from data. Currently focused on mastering Data Science, Deep Learning and improving my skills in Python.
 
