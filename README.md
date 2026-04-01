@@ -24,7 +24,6 @@ I am passionate about building intelligent systems and extracting insights from 
     *A comprehensive journey showing the transition from classical statistical models to neural network architectures.*
   
 ### 📊 Data Science & Analysis
-* **[Loan_Data_Analysis](https://github.com/tigranbadalyan-ai/Loan_Data_Analysis)** — Comprehensive end-to-end data analysis project focusing on loan datasets, utilizing Python for EDA and preparing data for visualization.
 * **[PostgreSQL-Learning-Path](https://github.com/tigranbadalyan-ai/SQL-Learning-Path-PostgreSQL)** — A structured repository dedicated to mastering SQL, covering everything from basic queries to complex.
 * ⏳ *In Progress:* Integrating Power BI/Tableau dashboards with the Loan Analysis project.
 
